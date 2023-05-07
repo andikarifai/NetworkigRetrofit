@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "422935553133",
+    "project_id": "projectandkm4",
+    "storage_bucket": "projectandkm4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422935553133:android:c180a9b7f8c24d24c10b64",
+        "android_client_info": {
+          "package_name": "com.and.networkigretrofit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422935553133-j4b8sopkkpkbr6me5h58fo53n15l3e68.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.and.networkigretrofit",
+            "certificate_hash": "0a929e365203259d790029d36e3696977dee8b56"
+          }
+        },
+        {
+          "client_id": "422935553133-vun3llf0amjnj2m0294unh32t6kclr91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8yeD1clHi3HiQsUCo2H9QT49UKPq2V10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422935553133-vun3llf0amjnj2m0294unh32t6kclr91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
